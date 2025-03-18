@@ -1,1 +1,1 @@
-# Elecrow 1.28" Round Display with MicroPython Demo
+# Elecrow 1.28" Round Display | MicroPython Demo
